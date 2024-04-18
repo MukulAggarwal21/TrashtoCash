@@ -37,3 +37,27 @@
   }
 }
 
+.redeemtop{
+   margin-top: 100px;
+  
+}
+.buttonredeem:hover{
+  background-color: green;
+ 
+}
+.buttonredeem{
+   margin-left: 40px;
+   width: 150px;
+}
+.textredeem{
+  background-color: #222222;
+  color: white;
+}
+body{
+  background-color: #222222;
+  color: wheat;
+}
+.buttonsell{
+  margin-left: 600px;
+  width: 150px;
+}
